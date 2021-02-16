@@ -22,6 +22,8 @@ run the game again...
 
 when the game is stuck loading, open task manager click on the game and disable runtime broker
 
+remember for every new trial game installed, restart from **The Store part?**
+
 # Credits
 
 https://github.com/primalnet - 90% (creator and main developer)
