@@ -24,6 +24,10 @@ when the game is stuck loading, open task manager click on the game and disable 
 
 remember for every new trial game installed, restart from **The Store part?**
 
+# List of working games
+
+https://www.microsoft.com/en-au/store/game-demos/games/xbox
+
 # Credits
 
 https://github.com/primalnet - 90% (creator and main developer)
