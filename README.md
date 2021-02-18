@@ -30,7 +30,7 @@ remember for every new trial game installed, restart from **The Store part?**
 
 # List of working games
 
-https://www.microsoft.com/en-au/store/game-demos/games/xbox
+https://www.microsoft.com/store/game-demos/games/xbox
 
 # Credits
 
