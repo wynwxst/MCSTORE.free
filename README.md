@@ -1,6 +1,10 @@
 # MCSTORE.free
 an exploit for all trial based games on microsoft store
 
+# Disclaimer:
+
+I am not responsible if you share this exploit as your own and get reported
+
 # Installation:
 download the .reg files and run AddTakeOwnership.reg
 
