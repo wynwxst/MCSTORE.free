@@ -5,6 +5,8 @@ an exploit for all trial based games on microsoft store
 
 I am not responsible if you share this exploit as your own and get reported
 
+### This project is being remade.
+
 # Installation:
 download the .reg files and run AddTakeOwnership.reg
 
@@ -34,6 +36,4 @@ https://www.microsoft.com/store/game-demos/games/xbox
 
 # Credits
 
-https://github.com/primalnet - 90% (creator and main developer)
-
-https://github.com/sakurai07 - 10% (testing and a little modification)
+Microsoft - The exploit
